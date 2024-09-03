@@ -6,14 +6,14 @@ export const networkAtom = atom({
     default : 102
 })
 export const jobsAtom = atom({
-    key : "networkAtom",
-    default : 102
+    key : "jobAtom",
+    default : 0
 })
 export const notificationAtom = atom({
-    key : "networkAtom",
-    default : 102
+    key : "notificationAtom",
+    default : 12
 })
 export const messagingAtom = atom({
-    key : "networkAtom",
-    default : 102
+    key : "messagingAtom",
+    default : 19
 })
